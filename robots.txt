@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amini-perfumes.netlify.app/sitemap.xml
